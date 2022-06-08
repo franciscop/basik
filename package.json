@@ -1,7 +1,6 @@
 {
   "name": "basik",
   "version": "0.1.0",
-  "private": true,
   "peerDependencies": {
     "react": ">=16.8.0",
     "styled-components": "^5.3.3"
